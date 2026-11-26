@@ -201,4 +201,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Escape from Tarkov · Updated 2026-11-25 · Shared under the MIT License*
+*Escape from Tarkov · Updated 2026-11-26 · Shared under the MIT License*
